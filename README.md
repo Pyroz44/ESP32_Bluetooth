@@ -1,8 +1,5 @@
 # TP 6 : Asservissement de vitesse et IHM Bluetooth sur ESP32
 
-## Description du TP
-Ce dépôt contient le code final du TP d'informatique embarquée. L'objectif était de piloter le moteur d'un pupitre trieur depuis une tablette Android via Bluetooth, tout en gérant un asservissement de vitesse en boucle fermée.
-
 ## Matériel utilisé
 - Carte ESP32 (programmation sous VS Code / PlatformIO)
 - Moteur à courant continu + Pont en H (commande PWM)
